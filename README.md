@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+ https://matthiashager.com/complete-vuejs-application-tutorial/ 
+
 ## Build Setup
 
 ``` bash
